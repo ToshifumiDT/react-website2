@@ -1,0 +1,40 @@
+/* src/App.css */
+body {
+  font-family: Arial, sans-serif;
+  height: 100vh;
+}
+
+header, footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+             
+
+.card {
+  border: 1px solid #ccc;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+#headertext {
+  font-size: 50px;
+}
+
+#maintext {
+  font-size: 26px;
+  text-align: center;
+}
+
+#footertext {
+  font-size: 8px;
+}
+
+
+footer{
+  width: 100%;
+  position: fixed;
+  bottom: 0;  
+  height: 10px;
+}
